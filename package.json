@@ -1,6 +1,6 @@
 {
-    "title": "Clean Blog",
-    "name": "startbootstrap-clean-blog",
+    "title": "Purplesdev Develop Blog",
+    "name": "purplesdev-develop-blog",
     "version": "5.0.8",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
@@ -14,7 +14,7 @@
         "theme",
         "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/clean-blog",
+    "homepage": "https://purplesdev.github.io/",
     "bugs": {
         "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog/issues",
         "email": "feedback@startbootstrap.com"
@@ -26,7 +26,7 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-clean-blog.git"
+        "url": "https://github.com/purplesdev/purplesdev.github.io.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.10.2",
